@@ -1,0 +1,8 @@
+Global database - orcl
+pluggable database - orclpdb
+
+pwd = Jaideep@2002
+URL:https://localhost:5500/em
+
+
+connect - system
